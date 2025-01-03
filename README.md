@@ -12,7 +12,7 @@ A simple web application built with React.js that allows users to input text, se
 
 1. Clone the repository:
 
-## git clone https://github.com/your-username/find-and-replace.git
+## git clone https://github.com/Kalyani-Nandi/find-and-replace.git
 ## cd find-and-replace
 
 2. Install dependencies:
